@@ -10,4 +10,9 @@
 - [Criando o banco](#criando-o-banco).
 - [Inserção de dados](#inserção-de-dados).
 
+
+Links: 
+
+- [Sub página](pasta/criando-e-populando-o-banco.md)
+- [Sub página](pasta/GRANT-E-REVOKE-no-SQL-Server.md)
   
