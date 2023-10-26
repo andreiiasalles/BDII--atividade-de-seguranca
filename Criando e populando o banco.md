@@ -9,6 +9,15 @@
 - [Tabelas](#tabelas).
 - [Criando o banco](#criando-o-banco).
 - [Inserção de dados](#inserção-de-dados).
+- [Criando o login](#criando-o-login).
+- [Associar o usuario ao login](#criando-o-usuário-do-banco-de-dados-associado-ao-login).
+- [Conectando ao SQL SERVER](#conectando-ao-sql-server).
+- [Dando permissões com o GRANT](#dando-permissões-com-grant).
+- [Removendo permissão com o REVOKE](#removendo-permissão-com-o-revoke).
+- [Removendo o login do servidor](#removendo-o-login-do-servidor).
+
+
+  
 # Documentação do Banco de Dados da Minha Empresa
 
 Projeto criado para a disciplina de banco de dados II - Uni7.
