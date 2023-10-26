@@ -21,4 +21,7 @@ Vá para o banco de dados MinhaEmpresa → Expanda a segurança → Expanda usu�
 
 ![image](https://github.com/andreiiasalles/BDII--atividade-de-seguranca/assets/57154658/844c2f06-34ee-479c-8a7f-da75ed7c9bcf)
 
+# Conectando ao SQL SERVER
+
+![image](https://github.com/andreiiasalles/BDII--atividade-de-seguranca/assets/57154658/42b01db2-9153-4353-8a77-10b8eca32b88)
 
